@@ -1,4 +1,6 @@
-### Hi there 👋
+### PKNU - Major of Biomedical Engineering
+
++ My goal is to be a data scientist working with healthcare data.
 
 <!--
 **48hour/48hour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=48hour&show_icons=true&theme=radical)
