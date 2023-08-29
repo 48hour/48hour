@@ -1,5 +1,3 @@
-### PKNU - Major of Biomedical Engineering
-
 + My goal is to be a data scientist working with healthcare data.
 
 <!--
