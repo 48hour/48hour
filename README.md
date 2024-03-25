@@ -1,4 +1,4 @@
-+ My goal is to be a data scientist working with healthcare data.
++
 
 <!--
 **48hour/48hour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
